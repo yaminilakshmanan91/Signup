@@ -24,3 +24,5 @@ Feature: Create an account in magento SoftwareTestingBoard
     And User clicks the sighIn button
     Then User account login successfully
     And User close the application
+    
+    
